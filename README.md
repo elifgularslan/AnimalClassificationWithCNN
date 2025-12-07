@@ -67,7 +67,7 @@ Below is a prediction example on an unseen image of a **Spider (Ragno)**:
 * **Observation:** The 74.05% score indicates that the model is quite confident and reliable in its prediction for a 10-class problem. This level of confidence proves that the model has successfully learned the fundamental features. The remaining uncertainty (25.95%) stems from background noise or similarities to other classes in the visual data, and can be addressed through hyperparameter optimization to achieve confidence levels above 90%.
 ---
 ---
-# 🐾 Animals-10 Görüntü Sınıflandırma: Özel CNN Projesi
+# 🐾 Animals-10 Görüntü Sınıflandırma
 
 ## 🎯 Proje Amacı
 Bu projenin temel amacı, 10 farklı hayvan türünü sınıflandırabilen güçlü bir Derin Öğrenme modeli geliştirmektir. Transfer Öğrenme (Transfer Learning) yerine, sıfırdan bir **Özel Evrişimli Sinir Ağı (CNN)** mimarisi kurularak modelin genelleme yeteneği test edilmiştir.
